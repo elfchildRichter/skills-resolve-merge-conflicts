@@ -1,1 +1,5 @@
-We're going to make a conflict.
+# References
+
+* octocat 1 😈
+
+The conflict should be resolved.
